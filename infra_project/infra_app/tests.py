@@ -1,6 +1,4 @@
 from http import HTTPStatus
-from importlib.resources import contents
-from multiprocessing import context
 
 from django.test import Client, TestCase
 
